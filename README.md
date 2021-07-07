@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Quantum-Codes
-- 👀 I’m interested in something
+- 👀 I’m learning python
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on nothing xD
 - 📫 contact here:https://github.com/Quantum-Codes/Ankit_Anmol/discussions

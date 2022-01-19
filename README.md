@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Quantum-Codes
 - 👀 I’m learning python
-- 🌱 I’m currently learning something
-- 💞️ I’m looking to collaborate on nothing xD
-- 📫 contact here:https://github.com/Quantum-Codes/Ankit_Anmol/discussions
+- 🌱 I am working on a python package called ScraGet.
+- 💞️ I use Scratch, Replit and Github with not necessarily the same username.
+- 📫 Contact me here:https://github.com/Quantum-Codes/Ankit_Anmol/discussions
 <center><img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight"></img><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact&theme=tokyonight"></center>
 Stats from <a href="https://github.com/anuraghazra/github-readme-stats">here</a><!---

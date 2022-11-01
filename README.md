@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Quantum-Codes
+# 👋 Hi, I’m @Quantum-Codes
 - 👀 I’m learning python
-- 🌱 I am working on a python package called ScraGet.
 - 💞️ I use Scratch, Replit and Github with not necessarily the same username.
 - 📫 Contact me here:https://github.com/Quantum-Codes/Ankit_Anmol/discussions
 <center><img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight"></img><br>

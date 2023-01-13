@@ -9,5 +9,6 @@
 
 ### Stats:
 <center><img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight"></img><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact&theme=tokyonight"></center>
-Stats from <a href="https://github.com/anuraghazra/github-readme-stats">here</a>[Contact here](https://github.com/Quantum-Codes/Ankit_Anmol/discussions)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact&theme=tokyonight"></center><br>
+Stats from <a href="https://github.com/anuraghazra/github-readme-stats">here</a> <br>
+<a href="https://github.com/Quantum-Codes/Ankit_Anmol/discussions">Contact</a>

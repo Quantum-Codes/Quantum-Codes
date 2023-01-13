@@ -6,6 +6,8 @@
 ### I use:
 [![Replit](https://img.shields.io/badge/Replit-2B2E3A?logo=replit&style=for-the-badge&logoColor=white)](https://replit.com/)  [![GitHub](https://img.shields.io/badge/GitHub-2B2E3A?style=for-the-badge&logo=github)](https://github.com/)
 
+#### also, everything in the world:
+[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
 ### Stats:
 <center><img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight"></img><br>

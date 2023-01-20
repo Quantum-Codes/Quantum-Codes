@@ -7,7 +7,7 @@
 [![Replit](https://img.shields.io/badge/Replit-2B2E3A?logo=replit&style=for-the-badge&logoColor=white)](https://replit.com/)  [![GitHub](https://img.shields.io/badge/GitHub-2B2E3A?style=for-the-badge&logo=github)](https://github.com/)
 
 ### Learning:
-[![MySQL](https://img.shields.io/badge/MySQL-2B2E3A?style=for-the-badge&logo=MySQL)](https://github.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-2B2E3A?style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
 
 #### also, everything in the world:
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)

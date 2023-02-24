@@ -14,11 +14,11 @@
 
 ### Stats:
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight"></img><br>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight"></a><br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact&theme=tokyonight"><br>
- <img src="https://github-profile-trophy.vercel.app/?username=Quantum-Codes&theme=algolia"><br>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Quantum-Codes&theme=algolia"></a><br>
 </div>
+<br>
 
 
-Stats from <a href="https://github.com/anuraghazra/github-readme-stats">here</a> <br>
 <a href="https://github.com/Quantum-Codes/Ankit_Anmol/discussions">Contact</a>

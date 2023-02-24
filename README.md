@@ -13,11 +13,11 @@
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
 ### Stats:
-<p align="center">
+<div>
  <img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight"></img><br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact&theme=tokyonight"><br>
  <img src="https://github-profile-trophy.vercel.app/?username=Quantum-Codes&theme=algolia"><br>
-</p>
+</div>
 
 
 Stats from <a href="https://github.com/anuraghazra/github-readme-stats">here</a> <br>

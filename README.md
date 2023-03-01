@@ -17,8 +17,8 @@
  <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight"></picture></a><br>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true"></picture></a><br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Quantum-Codes&theme=tokyonight&fire=EB7429"></a>
  </p><br>
  <p align="center">

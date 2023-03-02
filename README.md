@@ -34,7 +34,7 @@
    <a href="  ">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact&theme=tokyonight">
-      <img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact">
     </picture>
     </a>
     <br>

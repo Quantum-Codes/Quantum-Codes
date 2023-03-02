@@ -24,8 +24,8 @@
     <br>
     <a href="https://git.io/streak-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Quantum-Codes&theme=tokyonight&fire=EB7429">
-      <img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight">
+      <source media="(prefers-color-scheme: dark)" srcset= "https://streak-stats.demolab.com?user=Quantum-Codes&theme=tokyonight&fire=EB7429">
+      <img src="https://streak-stats.demolab.com?user=Quantum-Codes">
     </picture>
     </a>
  </p>
@@ -48,7 +48,7 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset= "https://github-profile-trophy.vercel.app/?username=Quantum-Codes&theme=algolia">
-      <img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true">
+      <img src="https://github-profile-trophy.vercel.app/?username=Quantum-codes">
     </picture>
     </a>
     <br>

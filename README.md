@@ -14,16 +14,44 @@
 
 ### Stats:
 <p>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight">
+      <img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true">
+    </picture>
+    </a>
+    <br>
+    <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight">
+      <img src="https://streak-stats.demolab.com?user=Quantum-Codes&theme=tokyonight&fire=EB7429">
+    </picture>
+    </a>
+ </p>
+ <br>
  <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true"></picture></a><br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Quantum-Codes&theme=tokyonight&fire=EB7429"></a>
- </p><br>
- <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact&theme=tokyonight"><br>
-   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Quantum-Codes&theme=algolia"></a>
+   <a href="  ">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact&theme=tokyonight">
+      <img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true">
+    </picture>
+    </a>
+    <br>
+    <a href="  ">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight">
+      <img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true">
+    </picture>
+    </a>
+    <br>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset= "https://github-profile-trophy.vercel.app/?username=Quantum-Codes&theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true">
+    </picture>
+    </a>
+    <br>
  </p>
 </p><br>
 <img src="https://komarev.com/ghpvc/?username=quantum-codes&label=Profile%20views&color=0e75b6&style=flat" alt="quantum-codes">

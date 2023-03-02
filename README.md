@@ -24,8 +24,8 @@
     <br>
     <a href="https://git.io/streak-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight">
-      <img src="https://streak-stats.demolab.com?user=Quantum-Codes&theme=tokyonight&fire=EB7429">
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Quantum-Codes&theme=tokyonight&fire=EB7429">
+      <img src="  ">
     </picture>
     </a>
  </p>

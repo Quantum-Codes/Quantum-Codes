@@ -31,7 +31,7 @@
  </p>
  <br>
  <p align="center">
-   <a href="  ">
+   <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact&theme=tokyonight">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact">

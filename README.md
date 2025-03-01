@@ -18,8 +18,8 @@
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight">
-      <img src="https://github-readme-stats.vercel.app/api?username=Quantum-codes&show_icons=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-quantumcodes-projects.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight">
+      <img src="https://github-readme-stats-quantumcodes-projects.vercel.app/api?username=Quantum-codes&show_icons=true">
     </picture>
     </a>
     <br>
@@ -34,8 +34,8 @@
  <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact&theme=tokyonight">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-quantumcodes-projects.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact&theme=tokyonight">
+      <img src="https://github-readme-stats-quantumcodes-projects.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact">
     </picture>
     </a>
     <br>

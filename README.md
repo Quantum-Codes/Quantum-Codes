@@ -34,7 +34,7 @@
  <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-quantumcodes-projects.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact&theme=tokyonight">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-quantumcodes-projects.vercel.app/api/top-langs/?username=Quantum-codes&exclude_repo=github-readme-stats&layout=compact&theme=tokyonight">
       <img src="https://github-readme-stats-quantumcodes-projects.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact">
     </picture>
     </a>

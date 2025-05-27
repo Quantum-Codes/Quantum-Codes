@@ -1,5 +1,5 @@
 # 👋 Hi, I’m [@Quantum-Codes](https://github.com/Quantum-Codes)
- 
+ I am a 1st year BTech student at IIT Tirupati
 ### I know:
 [![Python](https://img.shields.io/badge/Python-2B2E3A?style=for-the-badge&logo=python&logoColor=4ea6ed)](https://www.python.org/)  [![HTML5](https://img.shields.io/badge/html5-2B2E3A.svg?style=for-the-badge&logo=html5&logoColor=e54c21)](https://en.wikipedia.org/wiki/HTML5)  [![CSS3](https://img.shields.io/badge/css3-2B2E3A.svg?style=for-the-badge&logo=css3&logoColor=6181fa)](https://en.wikipedia.org/wiki/CSS)
 

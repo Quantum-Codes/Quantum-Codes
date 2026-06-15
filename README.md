@@ -1,54 +1,94 @@
-# 👋 Hi, I’m [@Quantum-Codes](https://github.com/Quantum-Codes)
- I am a 3rd year BTech CSE student at IIT Tirupati
-### I know:
-[![Python](https://img.shields.io/badge/Python-2B2E3A?style=for-the-badge&logo=python&logoColor=4ea6ed)](https://www.python.org/)  [![HTML5](https://img.shields.io/badge/html5-2B2E3A.svg?style=for-the-badge&logo=html5&logoColor=e54c21)](https://en.wikipedia.org/wiki/HTML5)  [![CSS3](https://img.shields.io/badge/css3-2B2E3A.svg?style=for-the-badge&logo=css3&logoColor=6181fa)](https://en.wikipedia.org/wiki/CSS)
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="200" alt="Programming GIF">
+  <h1>👋 Hi, I'm Ankit Sinha (@Quantum-Codes)</h1>
+  <p><strong>I build backend systems and applied-AI tools.</strong></p>
+  <p><i>Streaming data pipelines, RAG, backends, and agentic systems — using AI where it helps and owning the hard decisions myself.</i></p>
 
-### I use:
-[![VS Code](https://img.shields.io/badge/VS_Code-text?style=for-the-badge&logo=visualstudiocode&logoColor=%230085D1&logoSize=small&color=%232B2E3A)](https://code.visualstudio.com/)  [![GitHub](https://img.shields.io/badge/GitHub-2B2E3A?style=for-the-badge&logo=github)](https://github.com/)
+  <p>
+    <a href="https://quantum-codes.github.io/">Portfolio</a> •
+    <a href="https://www.linkedin.com/in/-ankit-sinha">LinkedIn</a> •
+    <a href="mailto:cs24b056@iittp.ac.in">Contact Me</a>
+  </p>
 
-### Learning:
-[![MySQL](https://img.shields.io/badge/MySQL-2B2E3A?style=for-the-badge&logo=MySQL)](https://www.mysql.com/) [![Static Badge](https://img.shields.io/badge/C_lang-text?style=for-the-badge&logo=C&logoColor=%23A9BACD&color=%232B2E3A)](https://www.open-std.org/jtc1/sc22/wg14/)
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=quantum-codes&label=Profile%20views&color=0e75b6&style=flat" alt="quantum-codes">
+  </p>
+  
+  <h3>🚀 Actively looking for Summer 2027 Internships (Backend / Platform / Applied-AI)</h3>
+</div>
 
+---
 
-#### also, everything in the world:
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+### 🎓 About Me
 
-### Stats:
-<p>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+- 🏫 **Education:** 3rd year B.Tech in Computer Science & Engineering at **IIT Tirupati** (Class of 2028). CGPA: 8.93/10
+- 💻 **Shipping since before college:** I taught myself to program and built [**ScraGet**](#), a Python package with **100,000+ installs**.
+- 🏆 **Leadership:** Deputy Head of Coding Club (Digital Wizards) & GDG on Campus at IIT Tirupati. Core Member of Sigma Squad (AI/ML Club).
+- ⚙️ **Focus:** Backend systems × Applied AI.
+
+<br/>
+
+### 🛠️ The Toolbox
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+<p align="center">
+  <strong>Applied AI:</strong> RAG, LLM, Ollama, ChromaDB, Multi-agent orchestration<br/>
+  <strong>Systems:</strong> Kafka, Debezium, Pathway, FastAPI, Flask, Docker.
+</p>
+
+---
+
+### 🚀 Selected Work
+
+| Project | Description | Role / Result |
+| :--- | :--- | :--- |
+| **Vigil360** | Real-time KYC & fraud-detection pipeline using agentic streaming systems (Kafka, Debezium, Pathway, PostgreSQL). Cuts KYC processing from days to minutes. | **Integration engineer for the ETL pipeline**. 5th of 23 IITs at Inter IIT Tech Meet 14.0 |
+| **AttorneysInRAGs** | Legal-compliance analysis using RAG. Scores Terms-of-Service documents using hybrid keyword/similarity retrieval and local LLMs. | **Team lead**. 1st place at Code for Society, IIT Tirupati |
+| **ScraGet** | Python wrapper for the Scratch APIs abstracting REST APIs into a clean Pythonic interface. | **Solo build**. 100,000+ installs lifetime. |
+| **JoSAA Data Pipeline** | Scraping and parsing pipeline for official JoSAA reports. Processed 110k+ rows, used by 6k+ students. | **Solo build**. 66k+ impressions. |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-quantumcodes-projects.vercel.app/api?username=Quantum-codes&show_icons=true&theme=tokyonight">
-      <img src="https://github-readme-stats-quantumcodes-projects.vercel.app/api?username=Quantum-codes&show_icons=true">
+      <img src="https://github-readme-stats-quantumcodes-projects.vercel.app/api?username=Quantum-codes&show_icons=true" alt="Quantum-codes stats">
     </picture>
-    </a>
-    <br>
-    <a href="https://git.io/streak-stats">
+  </a>
+  <a href="https://git.io/streak-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset= "https://streak-stats.demolab.com?user=Quantum-Codes&theme=tokyonight&fire=EB7429&mode=weekly">
-      <img src="https://streak-stats.demolab.com?user=Quantum-Codes&mode=weekly">
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Quantum-Codes&theme=tokyonight&fire=EB7429&mode=weekly">
+      <img src="https://streak-stats.demolab.com?user=Quantum-Codes&mode=weekly" alt="GitHub Streak">
     </picture>
-    </a>
- </p>
- <br>
- <p align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-quantumcodes-projects.vercel.app/api/top-langs/?username=Quantum-codes&exclude_repo=github-readme-stats&layout=compact&theme=tokyonight">
-      <img src="https://github-readme-stats-quantumcodes-projects.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact">
+      <img src="https://github-readme-stats-quantumcodes-projects.vercel.app/api/top-langs/?username=Quantum-codes&layout=compact" alt="Top Languages">
     </picture>
-    </a>
-    <br>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset= "https://github-profile-trophy.vercel.app/?username=Quantum-Codes&theme=algolia">
-      <img src="https://github-profile-trophy.vercel.app/?username=Quantum-codes">
-    </picture>
-    </a>
-    <br>
- </p>
-</p><br>
-<img src="https://komarev.com/ghpvc/?username=quantum-codes&label=Profile%20views&color=0e75b6&style=flat" alt="quantum-codes">
-<br>
+  </a>
+</div>
 
-<a href="https://github.com/Quantum-Codes/Ankit_Anmol/discussions">Contact</a>
+---
+
+<div align="center">
+  <h3>📫 Reach out for Summer 2027 Internships or exciting projects: <a href="mailto:cs24b056@iittp.ac.in">cs24b056@iittp.ac.in</a></h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
+</div>

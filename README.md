@@ -6,7 +6,7 @@
 
   <p>
     <a href="https://quantum-codes.github.io/">Portfolio</a> •
-    <a href="https://www.linkedin.com/in/ankitsinha">LinkedIn</a> •
+    <a href="https://www.linkedin.com/in/-ankit-sinha">LinkedIn</a> •
     <a href="mailto:cs24b056@iittp.ac.in">Contact Me</a>
   </p>
 
@@ -45,7 +45,7 @@
 </div>
 
 <p align="center">
-  <strong>Applied AI:</strong> RAG, LLM inference, Quantization, Ollama, ChromaDB, Multi-agent orchestration, DistilBERT.<br/>
+  <strong>Applied AI:</strong> RAG, LLM, Ollama, ChromaDB, Multi-agent orchestration<br/>
   <strong>Systems:</strong> Kafka, Debezium, Pathway, FastAPI, Flask, Docker.
 </p>
 
@@ -55,8 +55,8 @@
 
 | Project | Description | Role / Result |
 | :--- | :--- | :--- |
-| **Vigil360** | Real-time KYC & fraud-detection pipeline using agentic streaming systems (Kafka, Debezium, Pathway, PostgreSQL). Cuts KYC processing from days to minutes. | **Solo backend engine**. 5th of 23 IITs at Inter IIT Tech Meet 14.0 |
-| **AttorneysInRAGs** | Legal-compliance analysis using RAG. Scores Terms-of-Service documents using hybrid keyword/similarity retrieval and local quantized LLMs. | **Solo build end to end**. 1st place at Code for Society, IIT Tirupati |
+| **Vigil360** | Real-time KYC & fraud-detection pipeline using agentic streaming systems (Kafka, Debezium, Pathway, PostgreSQL). Cuts KYC processing from days to minutes. | **Integration engineer for the ETL pipeline**. 5th of 23 IITs at Inter IIT Tech Meet 14.0 |
+| **AttorneysInRAGs** | Legal-compliance analysis using RAG. Scores Terms-of-Service documents using hybrid keyword/similarity retrieval and local LLMs. | **Team lead**. 1st place at Code for Society, IIT Tirupati |
 | **ScraGet** | Python wrapper for the Scratch APIs abstracting REST APIs into a clean Pythonic interface. | **Solo build**. 100,000+ installs lifetime. |
 | **JoSAA Data Pipeline** | Scraping and parsing pipeline for official JoSAA reports. Processed 110k+ rows, used by 6k+ students. | **Solo build**. 66k+ impressions. |
 

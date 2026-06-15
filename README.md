@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="200" alt="Programming GIF">
   <h1>👋 Hi, I'm Ankit Sinha (@Quantum-Codes)</h1>
   <p><strong>I build backend systems and applied-AI tools.</strong></p>
   <p><i>Streaming data pipelines, RAG, backends, and agentic systems — using AI where it helps and owning the hard decisions myself.</i></p>

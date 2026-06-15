@@ -73,7 +73,7 @@
   </a>
   <a href="https://git.io/streak-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Quantum-Codes&theme=tokyonight&fire=EB7429&mode=weekly">
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/streak.svg">
       <img src="./profile/streak.svg" alt="GitHub Streak">
     </picture>
   </a>

@@ -13,7 +13,7 @@
     <img src="https://komarev.com/ghpvc/?username=quantum-codes&label=Profile%20views&color=0e75b6&style=flat" alt="quantum-codes">
   </p>
   
-  <h3>🚀 Actively looking for Summer 2027 Internships (Backend / Platform / Applied-AI)</h3>
+  <h3>🚀 Actively looking for Summer 2027 Internships</h3>
 </div>
 
 ---

@@ -13,7 +13,7 @@
     <img src="https://komarev.com/ghpvc/?username=quantum-codes&label=Profile%20views&color=0e75b6&style=flat" alt="quantum-codes">
   </p>
   
-  <h3>🚀 Actively looking for Summer 2027 Internships</h3>
+  <!--<h3>🚀 Actively looking for Summer 2027 Internships</h3>-->
 </div>
 
 ---
@@ -88,6 +88,6 @@
 ---
 
 <div align="center">
-  <h3>📫 Reach out for Summer 2027 Internships or exciting projects: <a href="mailto:cs24b056@iittp.ac.in">cs24b056@iittp.ac.in</a></h3>
+  <h3>📫 Reach out for <!--Summer 2027 Internships or--> exciting projects: <a href="mailto:cs24b056@iittp.ac.in">cs24b056@iittp.ac.in</a></h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
 </div>
